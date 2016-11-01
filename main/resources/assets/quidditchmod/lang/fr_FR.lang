@@ -1,0 +1,16 @@
+#Items
+item.itemBatte.name=Batte
+item.itemSouafle.name=Souafle
+item.itemCognard.name=Cognard
+item.itemVifDor.name=Vif d'or
+item.itemGant.name=Gant
+item.itemBalais.name=Balais volant
+
+#CreativeTabs
+itemGroup.quidditch_mod_creative_tabs=Quidditch Mod
+
+#Blocks
+...
+
+#Entities
+entity.entityBalais.name=Balais

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "quidditchmod",
+  "name": "QuidditchMod",
+  "description": "Mod implantant le Quidditch, sport magique de la saga Harry Potter dans Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Pifpouf"],
+  "credits": "Forge, FML, Pifpouf, JK Rowling, Warner Bros",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
